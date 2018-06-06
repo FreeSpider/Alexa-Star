@@ -7,7 +7,7 @@
 </p>
 <br />
 
-## Picture processing based on GD Library. ##
+## Constellation Lib. ##
 
 Use:
 
