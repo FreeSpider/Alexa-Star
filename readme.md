@@ -2,6 +2,7 @@
 <p align="center">
 <a href="https://travis-ci.org/FreeSpider/Alexa-Star"><img src="https://travis-ci.org/FreeSpider/Alexa-Star.svg?branch=master"></a>
 <!-- <a href="https://travis-ci.org/FreeSpider/Alexa-Star"><img src="https://img.shields.io/github/release/FreeSpider/Alexa-Star.svg"></a> -->
+<a href="https://github.com/FreeSpider/Alexa-Star/releases"><img src="https://img.shields.io/github/release/FreeSpider/Alexa-Star.svg"></a>
 <a href="https://github.com/FreeSpider/Alexa-Star/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-3e8374.svg"></a>
 <a href="#"><img src="https://img.shields.io/badge/language-php-45d298.svg"></a>
 </p>
